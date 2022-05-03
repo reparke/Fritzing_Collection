@@ -7,7 +7,7 @@ I did not create any of these parts, but I wanted to create an centralized place
 ## Included parts
 
 - Magnetic Door Switch
-  - [Product link](https://github.com/rwaldron/johnny-five/blob/main/docs/switch-magnetic-door.md) 
+  - [Product link](https://www.sparkfun.com/products/13247) 
   - [Original Fritzing source](https://github.com/rwaldron/johnny-five/blob/main/docs/switch-magnetic-door.md)
 - Pasive Infrared (PIR) Sensor
   - [Product link](https://www.sparkfun.com/products/13285) 
