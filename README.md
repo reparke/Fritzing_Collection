@@ -27,11 +27,11 @@ I did not create any of these parts, but I wanted to create an centralized place
 - Download the entire library by clicking [https://github.com/reparke/Fritzing_Collection/archive/master.zip](https://github.com/reparke/Fritzing_Collection/archive/master.zip)
 - Unzip the file (take note of the folder location)
 - Open Fritzing
-- On Parts panel on the right side of the screen, click the small dropdown menu and choose Import...
+- On Parts panel on the right side of the screen, click the small dropdown menu and choose **Import...**
 - Navigate to the folder with the file you downloaded and open `ITP_348_Parts`.fzpz
-- If you want to save the mesh library for future use, click the small dropdown menu on the Parts panel again and chose Save Bin
+- Click the small dropdown menu on the Parts panel again and chose **Save Bin**
 
 
-#### Credits
+## Credits
 
 All credit goes to original creators of these parts which are available freely online. Please let me know if there are any issues and I will take the parts down.
