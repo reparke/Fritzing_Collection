@@ -24,7 +24,7 @@ I did not create any of these parts, but I wanted to create an centralized place
 
 ## To install all these parts
 
-- Download the entire library by clicking [https://github.com/reparke/Fritzing_Collection/archive/master.zip](https://github.com/reparke/Fritzing_Collection/archive/master.zip)
+- Download the entire library by clicking [https://github.com/reparke/Fritzing_Collection/archive/main.zip](https://github.com/reparke/Fritzing_Collection/archive/main.zip)
 - Unzip the file (take note of the folder location)
 - Open Fritzing
 - On Parts panel on the right side of the screen, click the small dropdown menu and choose **Import...**
