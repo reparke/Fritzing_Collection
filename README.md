@@ -22,6 +22,12 @@ I did not create any of these parts, but I wanted to create an centralized place
   - [Product link](https://www.sparkfun.com/products/16474) 
   - [Original Fritzing source](https://github.com/sparkfun/Fritzing_Parts)
 
+* Pulse Sensor Amped Heart Rate Sensor Breakout
+
+  - [Product link](https://pulsesensor.com/products/pulse-sensor-amped) 
+
+  - [Original Fritzing source](https://github.com/WorldFamousElectronics/Fritzing_PulseSensor_Files)
+
 ## To install all these parts
 
 - Download the entire library by clicking [https://github.com/reparke/Fritzing_Collection/archive/main.zip](https://github.com/reparke/Fritzing_Collection/archive/main.zip)
